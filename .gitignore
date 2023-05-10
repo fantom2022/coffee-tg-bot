@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+.idea
+.mvn
+/src/main/resources/bot-config.yml
